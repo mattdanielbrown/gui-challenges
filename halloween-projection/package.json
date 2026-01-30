@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "postcss-preset-env": "^7.8.3",
-    "vite": "4.x"
+    "vite": "4.5.11"
   },
   "dependencies": {
     "@csstools/postcss-global-data": "^1.0.2",
